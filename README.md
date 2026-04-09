@@ -39,9 +39,6 @@
 
 <p align="center">
   <a href="https://github.com/balkayunus7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=balkayunus7&show_icons=true&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe&v=1" width="48%" />
-  </a>
-  <a href="https://github.com/balkayunus7">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balkayunus7&background=111111&text_color=ffffff&fire=7d8cbe&sideNums=7d8cbe&border=7d8cbe&dates=ffffff&currStreakNum=7d8cbe&ring=7d8cbe&stroke=7d8cbe&currStreakLabel=7d8cbe&sideLabels=7d8cbe" width="48%" />
   </a>
 </p>
