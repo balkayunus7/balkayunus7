@@ -28,23 +28,24 @@
 
 ---
 
-### 📲 My Apps
+<h3>🚀 My Apps</h3>
 
 <table>
   <tr>
-    <td width="115" align="center">
+    <td width="110">
       <a href="https://apps.apple.com/app/id6794365716">
-        <img src="assets/step_tourist.png" width="96" alt="Step Tourist app icon" />
+        <img src="./1024.png" width="90" alt="Step Tourist" />
       </a>
     </td>
     <td>
       <h3>Step Tourist</h3>
-      <p>Explore more with every step. A walking-inspired mobile experience built to make everyday movement more engaging.</p>
-      <a href="https://apps.apple.com/app/id6794365716"><img src="https://img.shields.io/badge/App%20Store-View%20App-000000?style=for-the-badge&logo=apple&logoColor=white" alt="View on the App Store" /></a>
+      <p>Explore the world, track your steps, and turn walking into an adventure.</p>
+      <a href="https://apps.apple.com/app/id6794365716">
+        <img src="https://img.shields.io/badge/App_Store-Download-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Download on App Store" />
+      </a>
     </td>
   </tr>
 </table>
-
 <!-- Add more app rows here as you publish new apps. -->
 
 ---
